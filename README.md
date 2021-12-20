@@ -1,5 +1,5 @@
 # Federated Composite Optimization
-This code repository is for "[Federated Composite Optimization](https://arxiv.org/abs/2011.08474)" authored by [Honglin Yuan](https://hongliny.github.io) (Stanford), Manzil Zaheer (Google) and Sashank Reddi (Google), to appear in ICML 2021. 
+This  code repository is for "[Federated Composite Optimization](https://arxiv.org/abs/2011.08474)" authored by [Honglin Yuan](https://hongliny.github.io) (Stanford), Manzil Zaheer (Google) and Sashank Reddi (Google), to appear in ICML 2021. 
 
 [talk video at FLOW seminar](https://www.youtube.com/watch?v=tKDbc60XJks) 
 | [slides (pdf)](https://hongliny.github.io/files/FCO_ICML21/FCO_ICML21_slides.pdf) 
